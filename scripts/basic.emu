@@ -1,0 +1,6 @@
+# Startup script: stage 1/2 features
+ls "my dir" file.txt   # comment after command
+cd /tmp
+foo
+echo "unclosed
+exit
